@@ -147,3 +147,6 @@ env
 
 # next.js build output
 .next
+
+#pytest report
+.report.xml
